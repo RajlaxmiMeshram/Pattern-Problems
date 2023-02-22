@@ -1,9 +1,11 @@
 /*
  * Print the following pattern for the given N number of rows.
-Pattern for N = 3
+Pattern for N = 5
  A
  BB
  CCC
+ DDDD
+ EEEEE
  */
 
 package patterns;
